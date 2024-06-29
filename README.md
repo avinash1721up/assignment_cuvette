@@ -17,5 +17,7 @@ This is a Currency Converter App built with React Native and TypeScript. It allo
 
 1. **Clone the repository:**
    ```bash
-  https://github.com/avinash1721up/assignment_cuvette.git
+   https://github.com/avinash1721up/assignment_cuvette.git
+   npm install
+
    
